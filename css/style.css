@@ -1,0 +1,48 @@
+body{
+	background: #d2d2c1 url(../img/fundo.png);
+	font-family: Helvetica, Verdana, sans-serif;
+}
+#principal {
+	font-size: 16px;
+	width: 900px;
+}
+
+#conteudo{
+	background-color: #E8E8D9;
+	padding: 10px;
+}
+
+#rodape {
+	width: 890px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+}
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+.menu {
+	height: 40px;
+	background-color: #D2D2C0;
+	line-height: 40px;
+	}
+
+	.menu a {
+		font-weight: bold;
+		text-decoration: none;
+		color: gray;
+		padding: 10px;
+	}
+	.menu a:hover {
+		color: #000;
+	}
+	.menu a.ativado {
+		color: #000;
+	}
+
+.campanha-img{
+	width: 640px;
+	border: 7px solid #C3C3AE;
+}
